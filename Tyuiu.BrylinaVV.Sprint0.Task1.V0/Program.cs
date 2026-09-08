@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World");
             string name = "Вероника";
-            int age = 18;
+            int age = 17;
             Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет!");
             Console.ReadKey();
         }
