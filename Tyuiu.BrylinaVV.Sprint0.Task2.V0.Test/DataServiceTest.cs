@@ -11,7 +11,7 @@ namespace Tyuiu.BrylinaVV.Sprint0.Task2.V0.Test
             var name = "Вероника";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет..., Вероника", res);
+            Assert.AreEqual("Привет, Вероника", res);
         }
     }
 }
